@@ -1,5 +1,5 @@
 Palindroma
 ===
-1. 
-2. 
+1. Inserire la Parola.
+2. ???
 3. 
