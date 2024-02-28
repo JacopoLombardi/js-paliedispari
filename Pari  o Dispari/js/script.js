@@ -30,6 +30,7 @@ btnPlay.addEventListener('click', function(){
    const result = totalePariDispari(totale);
 
 
+   // condizione per stabilire se User vince, altrimenti vince Pc
    if((userPariDispari === 'pari') && (result === 'pari')  ||  (userPariDispari === 'dispari') && (result === 'dispari')){
       output.innerHTML = 'Vince User!'
    }
